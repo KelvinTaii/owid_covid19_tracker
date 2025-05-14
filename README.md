@@ -22,9 +22,6 @@ covid19-global-tracker/
 ├── notebooks/
 │   └── covid19_analysis.ipynb            # Main analysis notebook
 │
-├── visuals/
-│   └── *.png, *.jpg                      # (Optional) Saved visual outputs
-│
 ├── report/
 │   └── covid19_report.pdf                # (Optional) Final exported report
 │
